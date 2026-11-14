@@ -1,5 +1,7 @@
 # Capim Dourado Connect
 
+Link do site: https://capim-dourado-connect.lovable.app
+
 Protótipo funcional da equipe **Scizor38** para o Desafio 04 do HackaRun UniCatólica 2026: integração da jornada de compra digital e física.
 
 > Demonstração não oficial. Lojas, marcas, produtos, preços, reservas, notificações e cupons são fictícios. Não há integração com o aplicativo, ERP, estoque ou sistemas do shopping.

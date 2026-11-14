@@ -3,6 +3,11 @@
 # utilize o link do site para avaliação de uso do produto:
 Link do site: https://capim-dourado-connect.lovable.app
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8d7b0f82-33dc-4dd1-9b76-276c5fe75dab" />
+
+
+
+
 Protótipo funcional da equipe **Scizor38** para o Desafio 04 do HackaRun UniCatólica 2026: integração da jornada de compra digital e física.
 
 Alunos: Bruna Guedes Machado, Víctor Emanuel Rodrigues Mota Gomes, Vinicius Rodrigues Araújo e Maria Antonia Barros Ribeiro.

@@ -1,0 +1,62 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1794631033048,
+      "tag": "0000_create_capim_connect_core",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1794631079309,
+      "tag": "0001_seed_capim_catalog",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1794631106403,
+      "tag": "0002_seed_capim_demo_journey",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1794643307902,
+      "tag": "0003_add_ai_search_signals_and_demo_missions",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1794646140976,
+      "tag": "0004_add_demo_notifications_and_real_customer_aggregates",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1794646753073,
+      "tag": "0005_accelerate_demo_reservation_expiration",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1794647466719,
+      "tag": "0006_restrict_ai_access_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1794655486378,
+      "tag": "0007_restrict_offers_public_read",
+      "breakpoints": true
+    }
+  ]
+}

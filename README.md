@@ -5,6 +5,8 @@ Link do site: https://capim-dourado-connect.lovable.app
 
 Link do pitch (90 Segundos): https://youtube.com/shorts/0Bg4Gzj0iaE
 
+Pitch Redundante em: "Pitch 90s.mp4"
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8d7b0f82-33dc-4dd1-9b76-276c5fe75dab" />
 
 

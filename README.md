@@ -3,6 +3,8 @@
 # utilize o link do site para avaliação de uso do produto:
 Link do site: https://capim-dourado-connect.lovable.app
 
+Link do pitch (90 Segundos): https://youtube.com/shorts/0Bg4Gzj0iaE
+
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8d7b0f82-33dc-4dd1-9b76-276c5fe75dab" />
 
 
